@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and model files
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.pb
+*.tflite
+*.onnx
+*.csv
+*.wav
+
+# Dataset folders
+samples/
+torgo_data/
+
+# MacOS system files
+.DS_Store
+
+# Images (if generated or not needed in repo)
+# images/
+
+# Lock files (optional, comment out if you want to track these)
+# uv.lock
+
+# Python version management
+.python-version
+
+# VSCode settings
+.vscode/ 
